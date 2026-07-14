@@ -17,11 +17,17 @@ Meal Finder is a responsive web application built using HTML5, CSS3, Bootstrap 5
 Meal-Finder-App/
 │
 ├── index.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 ├── images/
+
 └── README.md
 
 ## 🌐 Live Demo
