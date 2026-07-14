@@ -1,3 +1,4 @@
+
 🍽️ MEAL FINDER – DISCOVER DELICIOUS RECIPES WITH THEMEALDB API
 # 📖 Project Info
 
@@ -25,7 +26,7 @@ Meal-Finder-App/
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** https://your-live-demo-link.com
+🔗 **Live Website:https://page-leap-click.lovable.app/
 
 ## ✨ Features
 
